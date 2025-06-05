@@ -1,6 +1,7 @@
 ## Welcome 👋
+** I am a ordinary developer from Russia xD**
 ## Programming language
-[![My language](https://skillicons.dev/icons?i=c,cpp,java,lua,py)](https://skillicons.dev)
+[![My language](https://skillicons.dev/icons?i=c,cpp,java,lua,py)](https://skillicons.dev) and NASM
 
 ## IDE
 [![My IDE](https://skillicons.dev/icons?i=vscode,vim,visualstudio)](https://skillicons.dev)
