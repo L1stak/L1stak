@@ -1,5 +1,5 @@
 ## Welcome 👋
-**I am a ordinary developer from Russia xD**
+**I am a ordinary С/С++ and ASM developer xD**
 ## Programming language
 ![My language](https://skillicons.dev/icons?i=c,cpp,java,lua,py)and NASM
 
