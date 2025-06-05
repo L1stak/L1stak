@@ -9,7 +9,7 @@
 # Operating System
 ![My OS](https://skillicons.dev/icons?i=windows,arch)
 
-## Skills & frameworks
+## *Skills & frameworks*
 ![My Skills](https://skillicons.dev/icons?i=arduino,fastapi,flask,git,github,gitlab,mongodb,qt)
 
 
