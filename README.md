@@ -1,16 +1,16 @@
 ## Welcome 👋
 **I am a ordinary developer from Russia xD**
 ## Programming language
-[![My language](https://skillicons.dev/icons?i=c,cpp,java,lua,py)]and NASM
+![My language](https://skillicons.dev/icons?i=c,cpp,java,lua,py)and NASM
 
 ## IDE
-[![My IDE](https://skillicons.dev/icons?i=vscode,vim,visualstudio)]
+![My IDE](https://skillicons.dev/icons?i=vscode,vim,visualstudio)
 
 # Operating System
-[![My OS](https://skillicons.dev/icons?i=windows,arch)]
+![My OS](https://skillicons.dev/icons?i=windows,arch)
 
 ## Skills & frameworks
-[![My Skills](https://skillicons.dev/icons?i=arduino,fastapi,flask,git,github,gitlab,mongodb,qt)]
+![My Skills](https://skillicons.dev/icons?i=arduino,fastapi,flask,git,github,gitlab,mongodb,qt)
 
 
 <!--
